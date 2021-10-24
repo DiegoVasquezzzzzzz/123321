@@ -1,0 +1,26 @@
+[
+    {
+        "guildID": "887368000930459649",
+        "Level_Role": "Muted",
+        "Level_Role_ID": "824292114488754226",
+        "Level_To_Reach": 2
+    },
+    {
+        "guildID": "887368000930459649",
+        "Level_Role": "тест1",
+        "Level_Role_ID": "890638145035591760",
+        "Level_To_Reach": 1
+    },
+    {
+        "guildID": "887368000930459649",
+        "Level_Role": "тест2",
+        "Level_Role_ID": "890638410509844481",
+        "Level_To_Reach": 2
+    },
+    {
+        "guildID": "887368000930459649",
+        "Level_Role": "тест3",
+        "Level_Role_ID": "890638449336541226",
+        "Level_To_Reach": 3
+    }
+]

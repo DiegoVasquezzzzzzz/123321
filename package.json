@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "discord-buttons-plugins": "^3.3.5",
+    "discord.js": "^13.2.0",
+    "discord4bots": "^1.0.0-alpha",
+    "ms": "^2.1.3",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.3",
+    "quickmongo": "^4.0.0"
+  }
+}
